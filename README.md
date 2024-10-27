@@ -7,6 +7,7 @@ computer
 python (this includes libraries)
 
 # How to Install
+On this GitHub Page click the green code button and click download zip
 Download python using this link https://www.python.org/ and install it on your computer
 Make sure you have Pip installed (it comes with python so skip this step)
 run the following commands on your command prompt or terminal
